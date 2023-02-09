@@ -2,5 +2,11 @@ h1{
     color: lightcoral;
 }
 .important-places{
-    color: blueviolet;
+    background-color: blueviolet;
+}
+.large-text{
+    font-size: 2em;
+}
+.text-center{
+   text-align: center;
 }
